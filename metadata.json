@@ -1,0 +1,5 @@
+{
+  "name": "Weight Tracker",
+  "description": "A production-ready daily weight tracking application using Google Sheets as the backend database.",
+  "requestFramePermissions": []
+}
